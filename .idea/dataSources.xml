@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="django_test" uuid="feabe2b8-0e27-499f-93b1-52610640ec10">
+    <data-source source="LOCAL" name="realestatedb@localhost" uuid="9d7c27a3-60b1-4cbb-be91-5c47e654f305">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/realestatedb</jdbc-url>
     </data-source>
   </component>
 </project>
