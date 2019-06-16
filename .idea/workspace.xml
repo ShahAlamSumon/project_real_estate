@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98ed0b10-2a34-47a5-a0c4-d64908a83051" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/not-zip-safe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/pbr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/Paginator-0.5.1-py3.7.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lib/site-packages/paginator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/photos/2019/06/16/home-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/photos/2019/06/16/home-inside-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/listings/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/listings/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/listings/listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/listings/listings.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,14 +81,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listings/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-264">
+              <caret column="53" selection-start-column="53" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -104,12 +93,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/listings/listings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2508">
-              <caret line="114" column="108" selection-start-line="114" selection-start-column="108" selection-end-line="114" selection-end-column="108" />
+            <state relative-caret-position="154">
+              <caret line="70" column="105" selection-start-line="70" selection-start-column="94" selection-end-line="70" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/listings/listing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-356">
+              <caret line="153" column="58" selection-start-line="153" selection-start-column="52" selection-end-line="153" selection-end-column="58" />
               <folding>
-                <element signature="e#4713#4720#0#HTML" expanded="true" />
-                <element signature="e#5005#5012#0#HTML" expanded="true" />
-                <element signature="e#6149#6156#0#HTML" expanded="true" />
+                <element signature="e#1493#3451#0#HTML" />
+                <element signature="e#3508#6118#0#HTML" />
+                <element signature="e#6181#6695#0#HTML" />
               </folding>
             </state>
           </provider>
@@ -118,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listings/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="25" column="14" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="14" />
+            <state relative-caret-position="208">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="15" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -159,11 +157,7 @@
         <option value="$PROJECT_DIR$/templates/partials/_footer.html" />
         <option value="$PROJECT_DIR$/templates/partials/_topbar.html" />
         <option value="$PROJECT_DIR$/templates/base.html" />
-        <option value="$PROJECT_DIR$/templates/pages/index.html" />
-        <option value="$PROJECT_DIR$/templates/pages/about.html" />
         <option value="$PROJECT_DIR$/pages/url.py" />
-        <option value="$PROJECT_DIR$/pages/views.py" />
-        <option value="$PROJECT_DIR$/templates/listings/listing.html" />
         <option value="$PROJECT_DIR$/templates/listings/search.html" />
         <option value="$PROJECT_DIR$/templates/partials/_navbar.html" />
         <option value="$PROJECT_DIR$/listings/models.py" />
@@ -176,7 +170,11 @@
         <option value="$PROJECT_DIR$/listings/urls.py" />
         <option value="$PROJECT_DIR$/real_estate_project/urls.py" />
         <option value="$PROJECT_DIR$/templates/listings/listings.html" />
+        <option value="$PROJECT_DIR$/templates/pages/index.html" />
+        <option value="$PROJECT_DIR$/pages/views.py" />
+        <option value="$PROJECT_DIR$/templates/pages/about.html" />
         <option value="$PROJECT_DIR$/listings/views.py" />
+        <option value="$PROJECT_DIR$/templates/listings/listing.html" />
       </list>
     </option>
   </component>
@@ -300,23 +298,23 @@
       <workItem from="1560430186587" duration="6983000" />
       <workItem from="1560587553455" duration="19092000" />
       <workItem from="1560653502472" duration="3469000" />
-      <workItem from="1560665584629" duration="690000" />
+      <workItem from="1560665584629" duration="4318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40414000" />
+    <option name="totallyTimeSpent" value="44042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.22382398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.22382398" />
       <window_info id="Structure" order="1" sideWeight="0.5008264" side_tool="true" weight="0.24962063" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36694214" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.097520664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,7 +323,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007587" side_tool="true" weight="0.34214875" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49924126" visible="true" weight="0.34214875" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924126" weight="0.15867768" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289256" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.3289256" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -356,13 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4598">
-          <caret line="221" column="75" selection-start-line="221" selection-start-column="70" selection-end-line="221" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/partials/_topbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-300">
@@ -387,13 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/pages/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/django/core/checks/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -405,13 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="126" selection-start-line="126" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -582,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/realtors/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/realtors/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -628,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/listings/listing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3894">
-          <caret line="177" column="25" selection-start-line="177" selection-start-column="25" selection-end-line="177" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/listings/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -662,34 +622,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listings/views.py">
+    <entry file="file://$PROJECT_DIR$/pages/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        <state relative-caret-position="254">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/listings/listings.html">
+    <entry file="file://$PROJECT_DIR$/templates/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2508">
-          <caret line="114" column="108" selection-start-line="114" selection-start-column="108" selection-end-line="114" selection-end-column="108" />
+        <state relative-caret-position="132">
+          <caret line="138" column="63" selection-start-line="138" selection-start-column="63" selection-end-line="138" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realtors/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="15" />
           <folding>
-            <element signature="e#4713#4720#0#HTML" expanded="true" />
-            <element signature="e#5005#5012#0#HTML" expanded="true" />
-            <element signature="e#6149#6156#0#HTML" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="38" column="83" selection-start-line="38" selection-start-column="83" selection-end-line="38" selection-end-column="83" />
+          <folding>
+            <element signature="n#section#3;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listings/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listings/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="208">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="15" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/listings/listings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="70" column="105" selection-start-line="70" selection-start-column="94" selection-end-line="70" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/listings/listing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-356">
+          <caret line="153" column="58" selection-start-line="153" selection-start-column="52" selection-end-line="153" selection-end-column="58" />
+          <folding>
+            <element signature="e#1493#3451#0#HTML" />
+            <element signature="e#3508#6118#0#HTML" />
+            <element signature="e#6181#6695#0#HTML" />
           </folding>
         </state>
       </provider>
