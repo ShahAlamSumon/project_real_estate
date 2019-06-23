@@ -3,23 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="98ed0b10-2a34-47a5-a0c4-d64908a83051" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectstatic/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectstatic/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectstatic/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectstatic/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectstatic/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectstatic/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectstatic/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/real_estate_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_estate_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/real_estate_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_estate_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/listings/listing.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/listings/listings.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/listings/listings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,32 +90,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contacts/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="154">
+              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contacts/models.py">
+        <entry file="file://$PROJECT_DIR$/real_estate_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/listings/listing.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-377">
-              <caret line="174" column="110" selection-start-line="174" selection-start-column="110" selection-end-line="174" selection-end-column="110" />
+            <state relative-caret-position="198">
+              <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -155,6 +129,7 @@
       <find>url</find>
       <find>listings</find>
       <find>messages</find>
+      <find>back</find>
     </findStrings>
     <dirStrings>
       <dir>E:\Python\Udemy - Python Django Dev To Deployment\real_estate_project</dir>
@@ -194,12 +169,12 @@
         <option value="$PROJECT_DIR$/templates/accounts/dashboard.html" />
         <option value="$PROJECT_DIR$/templates/accounts/login.html" />
         <option value="$PROJECT_DIR$/templates/accounts/register.html" />
-        <option value="$PROJECT_DIR$/real_estate_project/settings.py" />
         <option value="$PROJECT_DIR$/contacts/models.py" />
         <option value="$PROJECT_DIR$/contacts/admin.py" />
         <option value="$PROJECT_DIR$/contacts/urls.py" />
         <option value="$PROJECT_DIR$/real_estate_project/urls.py" />
         <option value="$PROJECT_DIR$/templates/listings/listing.html" />
+        <option value="$PROJECT_DIR$/real_estate_project/settings.py" />
         <option value="$PROJECT_DIR$/contacts/views.py" />
       </list>
     </option>
@@ -229,23 +204,12 @@
             <path>
               <item name="real_estate_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="real_estate_project" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="real_estate_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="real_estate_project" type="462c0819:PsiDirectoryNode" />
               <item name="contacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="real_estate_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="real_estate_project" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="real_estate_project" type="b2602c69:ProjectViewProjectNode" />
               <item name="real_estate_project" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="listings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,12 +300,13 @@
       <workItem from="1560738006524" duration="601000" />
       <workItem from="1560742381571" duration="1156000" />
       <workItem from="1561191221478" duration="5462000" />
-      <workItem from="1561201848208" duration="14845000" />
+      <workItem from="1561201848208" duration="14996000" />
+      <workItem from="1561310635869" duration="3640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74277000" />
+    <option name="totallyTimeSpent" value="78068000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,12 +321,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.16691957" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917355" visible="true" weight="0.19499241" />
       <window_info id="Structure" order="1" sideWeight="0.5008264" side_tool="true" weight="0.24962063" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34214875" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3322314" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41322315" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,13 +349,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://9d7c27a3-60b1-4cbb-be91-5c47e654f305/role/pg_write_server_files">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://9d7c27a3-60b1-4cbb-be91-5c47e654f305/role/postgres">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -574,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listings/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="15" lean-forward="true" selection-end-line="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/partials/_footer.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -671,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/real_estate_project/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contacts/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -735,19 +679,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/listings/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/listings/listing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-377">
-          <caret line="174" column="110" selection-start-line="174" selection-start-column="110" selection-end-line="174" selection-end-column="110" />
+        <state relative-caret-position="93">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/real_estate_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contacts/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="154">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
